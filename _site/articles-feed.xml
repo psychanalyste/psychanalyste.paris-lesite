@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+  
+
+
+<title>Psychanalyste.Paris &#8211; Articles</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+<icon>https://psychanalyste.github.io/apple-touch-icon-precomposed.png</icon>
+<subtitle>Il s'agit pour le sujet de se reconnaître.</subtitle>
+<link href="https://psychanalyste.github.io/articles-feed.xml" rel="self"/>
+<link href="https://psychanalyste.github.io/" rel="alternate" type="text/html"/>
+<updated>2015-01-01T21:57:54+01:00</updated>
+<id>https://psychanalyste.github.io/</id>
+<author>
+	<name>D. Girard</name>
+	<uri>https://psychanalyste.github.io/</uri>
+	<email>contact§la-psychanalyse.org</email>
+</author>
+
+
+<entry>
+  <title>Skinny Bones, a Jekyll Starter</title>
+  <link href="https://psychanalyste.github.io/articles/skinny-bones-jekyll/"/>
+  <updated>2014-09-02T00:00:00+02:00</updated>
+  <id>https://psychanalyste.github.io/articles/skinny-bones-jekyll</id>
+  <author>
+		<name>D. Girard</name>
+		<uri>https://psychanalyste.github.io/</uri>
+		<email>contact§la-psychanalyse.org</email>
+	</author>
+  <content type="html">
+    &lt;img src=&quot;https://psychanalyste.github.io/images/skinny-bones-theme-feature.jpg&quot; alt=&quot;Skinny Bones, a Jekyll Starter feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;What originally started as a site refresh quickly turned into something else when Jekyll baked in native support for Sass with a &lt;a href=&quot;http://jekyllrb.com/docs/history/#v2-0-0&quot;&gt;2.0 release&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was a good excuse to learn Sass and figured starting a new repository to experiment with would be better than breaking my existing site and Jekyll themes. I ended up with what I’m calling &lt;strong&gt;Skinny Bones&lt;/strong&gt; by completely rewriting all of &lt;a href=&quot;https://github.com/mmistakes/made-mistakes&quot;&gt;Made Mistakes’s&lt;/a&gt; stylesheets, &lt;code&gt;_layouts&lt;/code&gt;, and &lt;code&gt;_includes&lt;/code&gt; to be more modular.&lt;/p&gt;
+
+&lt;p&gt;I like to think of Skinny Bones as a starter for building your own Jekyll powered site — versus a theme you use as is. I’ve purposely kept the styling minimal and light to make adding your own flare and markup easier. If that’s not your thing you can still use it without modification, but where is the fun in that?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notable-features&quot;&gt;Notable Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GitHub Pages compatible.&lt;/li&gt;
+  &lt;li&gt;Stylesheets built using Sass to help theme your site with ease. &lt;em&gt;Requires Jekyll 2.x&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Data files for easier customization of the site navigation/footer and for supporting multiple authors.&lt;/li&gt;
+  &lt;li&gt;Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.&lt;/li&gt;
+  &lt;li&gt;And more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;/h2&gt;
+
+&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/mmistakes/skinny-bones-jekyll/issues&quot;&gt;submit an issue&lt;/a&gt; on GitHub. For straight forward bug fixes (spelling mistakes, typos, broken links, etc.) feel free to submit pull requests. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skinny Bones&lt;/strong&gt; was built predominately as a framework for myself. My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you’ve used any of my &lt;a href=&quot;http://mademistakes.com/work/jekyll-themes/&quot;&gt;Jekyll themes&lt;/a&gt; I think it’s pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won’t get merged in.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. &lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://psychanalyste.github.io/articles/skinny-bones-jekyll/&quot; rel=&quot;nofollow&quot;&gt;Skinny Bones, a Jekyll Starter&lt;/a&gt; was originally published by &lt;a href=&quot;https://psychanalyste.github.io/about/&quot; rel=&quot;nofollow&quot;&gt;D. Girard&lt;/a&gt; on &lt;a href=&quot;https://psychanalyste.github.io&quot; rel=&quot;nofollow&quot;&gt;Psychanalyste.Paris&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+
+</feed>
