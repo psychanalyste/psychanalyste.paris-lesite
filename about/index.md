@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About Michael Rose"
+title: "Psychanalyste.Paris"
 date: 2014-06-01
 modified: 2014-11-25
-excerpt: "Michael Rose is just another boring, tattooed, time traveling designer from Buffalo."
+excerpt: "Blabla."
 image:
   feature: about-feature.jpg
   teaser: about-teaser.jpg
@@ -13,32 +13,28 @@ share: false
 sidebar: sidebar-about
 ---
 
-Oh hey --- I'm Michael Rose, just another boring, tattooed, time traveling designer working in Buffalo, New York. I'm into drawing [portraits of strangers]({{ site.url }}/articles/paperfaces-ipad-portrait-project.html) on an iPad using [Paper by FiftyThree](http://www.fiftythree.com/paper), movie theater popcorn, [chicken wings done right](http://www.duffswings.com "Duff's Famous Wings"), watching dust collect on my [record collection](http://www.discogs.com/user/mmistakes/collection), and playing the occasional iOS game.
+## Origine de la psychanalyse
 
-When I'm not drawing on my iPad, releasing open source [Jekyll themes]({{ site.url }}/work/jekyll-themes/), or [building web stuff](http://ekowave.com), I work as an web designer and content admin for a global lab supply company. On any given day I could be developing and designing front-ends, landing pages, email promotions and newsletters, massaging content in and out of a CMS or just getting cozy with HTML, CSS, and JavaScript.
-
-And if that wasn't enough --- I'm a father of twin girls and a mediocre husband to my [subscription box addicted wife](http://2littlerosebuds.com).
-
-<figure class="half">
-  <figcaption>My 2 little rosebuds drawn with Paper by FiftyThree.</figcaption>
-</figure>
+D'un point de vue historique, la psychanalyse est à l'origine une technique d'analyse,
+mise au point par Sigmund Freud appelée « talking cure », du fait qu'elle repose essentiellement sur la parole.
 
 ---
 
-## About the Site
+## A propos the Site
 
-So what does this all have to do with *made mistakes* and why did you name your website that? It vaguely has something to do with that whole happy accident thing, where a mistake can turn out to be something great and unplanned. But to be honest I was just looking for a short, memorable sounding domain name.
-
-In May of 2004 I purchased mademistakes.com, and threw up a Macromedia Flash splash screen (hey remember those?) while I worked on building out my portfolio. For the next couple of years I would experiment with various content management systems ([Movable Type](http://www.movabletype.org/) &rarr; [Textpattern](http://textpattern.com/) &rarr; [Wordpress](http://wordpress.org/) &rarr; [Indexhibit](http://www.indexhibit.org/)), developing minimalistic themes and learning what I could about HTML, CSS, Javascript, PHP, and MySQL databases.
+Ce site a plusieurs objectifs :
+- m'aider à  
 
 
 ---
 
-## Contact Me
+## Me contacter
 
-Have more questions? If they're Paper by FiftyThree related I've probably answered them on my [Frequently Asked Questions page]({{ site.url }}/faqs/). For everything else, short messages via Twitter are my preferred contact method. For something longer feel free to use the form below to send a message and I'll reply by email when I can.
+Le plus simple et le plus efficace est de passer par l'email : contact@psychanalyste.paris
 
-<a href="https://twitter.com/intent/tweet?screen_name=mmistakes" class="twitter-mention-button" data-size="large" data-related="mmistakes">Tweet to @mmistakes</a>
+Vous pouvez aussi me contacter via twitter : http://www.twitter.com/lapsychanalyse
+
+<a href="https://twitter.com/intent/tweet?screen_name=lapsychanalyse" class="twitter-mention-button" data-size="large" data-related="mmistakes">M'envoyer un tweet</a>.
 
 {% stylesheet form %}
 {% javascript vendor/wufoo %}
